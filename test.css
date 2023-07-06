@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+}
+.test{ 
+    color: skyblue;
+    cursor: url('images/FB_IMG_15594486661372556.jpg'),auto;
+}
+.container{
+display:flex;
+justify-content: space-around;
+}
+
+.box{
+    padding: 20px;
+    background-color: brown;
+    width: 100px;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: green;
+}
