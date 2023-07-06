@@ -4,12 +4,17 @@
     background-color: bisque;
 }
 .test{ 
+    width: 50px;
+    height: 50px;
     color: skyblue;
     cursor: url('images/FB_IMG_15594486661372556.jpg'),auto;
 }
 .container{
 display:flex;
 justify-content: space-around;
+height: 500px;
+align-items: center;
+border: 1px solid gray;
 }
 
 .box{
